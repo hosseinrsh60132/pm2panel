@@ -2,7 +2,7 @@
 //##############################################################################
 //                             config panel
 //##############################################################################
-const PORT = 3001;
+const PORT = 3000;
 const PAM_AUTH = false; // if set to true, USER and PASS won't be used
 const USER = 'admin';
 const PASS = 'admin';
